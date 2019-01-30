@@ -25,13 +25,13 @@ swirl::install_course('R_Programming_E')  ##this installs the course
 ##OR ALTERNATIVELY
 
 ##STEP 3.3:  INSTALLING A COURSE (ALTERNATIVE)
-install_course_github("swirldev", "R_Programming_E") ##this installs the course directly from the Github
+install_course_github("swirldev", "R_Programming_E") ##this installs the course directly from the Github repo directly
 
 ##STEP 4:  OPENING SWIRL
 swirl()  ##opens the swirl course in the console window below.
 
 ##STEP 5:  COMPLETE ALL 15 MODULES OF THE R_PROGRAMMING_E COURSE
-##AS YOU COMPLETE EACH MODULE
+
 
 ##STEP 6:  AS YOU COMPLETE THE MODULES, YOU SHOULD BE SAVING ALL OF YOUR CODE
 ##FOR EACH MODULE IN AN R script file (ending in the extension .R)
