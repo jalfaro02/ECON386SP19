@@ -52,7 +52,7 @@ swirl()  ##opens the swirl course in the console window below.
 
 
 
-##STEP 6:  INSTALL ANOTHER COURSE IF YOU WANT TO (OPTIONAL)
+##STEP 11:  INSTALL ANOTHER COURSE IF YOU WANT TO (OPTIONAL)
 ##REVERT BACK TO STEP 3.1 and insert a different course in the "  "
 ##Choose from "Exploratory Data Analysis"
 ##            "Getting and Cleaning Data"
